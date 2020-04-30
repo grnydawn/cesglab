@@ -2,7 +2,7 @@ from microapp import Project
 
 class CESGlab(Project):
     _name_ = "cesglab"
-    _version_ = "0.1.0"
+    _version_ = "0.1.1"
     _description_ = "Computational Earth Science Group Analysis Utilities"
     _long_description_ = "Computational Earth Science Group Analysis Utilities"
     _author_ = "Youngsung Kim"

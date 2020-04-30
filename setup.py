@@ -6,7 +6,7 @@ def main():
     from cesglab.main import CESGlab as clab
 
     console_scripts = ["cesglab=cesglab.__main__:main"]
-    install_requires = ["microapp>=0.1.12", "xrcalc>=0.1.5"]
+    install_requires = ["microapp>=0.1.12", "xrcalc>=0.1.6"]
 
     setup(
         name=clab._name_,
